@@ -20,4 +20,4 @@ _para testing correr el protecto con npm start o yarn start_
 * [React JS](https://es.reactjs.org/)
 
 ## Autor ✒️
-* **Roberto Fernandez** (https://www.linkedin.com/in/roberto-fernandez-53118677/)
+[Roberto Fernandez](https://www.linkedin.com/in/roberto-fernandez-53118677/)
